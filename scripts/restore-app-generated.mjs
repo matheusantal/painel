@@ -10,18 +10,6 @@ const parts = [
   'app-generated.02.b64',
   'app-generated.03.b64',
   'app-generated.04.b64',
-  'app-generated.05.b64',
-  'app-generated.06.b64',
-  'app-generated.07.b64',
-  'app-generated.08.b64',
-  'app-generated.09.b64',
-  'app-generated.10.b64',
-  'app-generated.11.b64',
-  'app-generated.12.b64',
-  'app-generated.13.b64',
-  'app-generated.14.b64',
-  'app-generated.15.b64',
-  'app-generated.16.b64',
 ]
 
 const base64 = (await Promise.all(
