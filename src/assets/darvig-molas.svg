@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Darvig Molas">
+  <defs>
+    <linearGradient id="bg" x1="64" y1="32" x2="448" y2="480" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2b2b2b"/>
+      <stop offset="1" stop-color="#171717"/>
+    </linearGradient>
+    <linearGradient id="mark" x1="96" y1="145" x2="419" y2="364" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff8a18"/>
+      <stop offset="1" stop-color="#f06f00"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="118" fill="url(#bg)"/>
+  <path fill="url(#mark)" d="M102 145h116c77 0 134 46 134 111 0 28-10 53-27 72l-46-58c5-10 8-22 8-35 0-37-29-62-75-62h-45v169h-65V145Zm84 89 96 121c14 18 34 22 54 13 11-5 20-13 27-25l55-94c11-19 5-39-14-49-19-11-39-4-50 15l-44 75-68-86-56 30Z"/>
+</svg>
